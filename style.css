@@ -1,0 +1,120 @@
+@charset "utf-8";
+.logo {
+	background-image : url(Logo.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 48px;
+	top : 12px;
+	width : 152px;
+	height : 126px;
+}
+.navBar
+{
+	background : #0099CC;
+	background : rgba(0, 153, 204, 1);
+	position : absolute ;
+	left : 670px;
+	top : 36px;
+	width : 430px;
+	height : 85px;
+	border-radius : 12px;
+	-moz-border-radius : 12px;
+	-webkit-border-radius : 12px;
+}
+.headerBlock
+{
+	background : #FFD147;
+	background : rgba(255, 209, 71, 1);
+	position : absolute ;
+	left : 0px;
+	top : 0px;
+	width : 1200px;
+	height : 150px;
+}
+.bodyBackground
+{
+	background : #0099CC;
+	background : rgba(0, 153, 204, 1);
+	position : absolute ;
+	left : 50px;
+	top : 190px;
+	width : 1100px;
+	height : 795px;
+	border-radius: 25px;
+}
+.navBarText
+{
+	font-family : Helvetica;
+	font-size : 36px;
+	line-height : 35px;
+	color : #F2F2F2;
+	color : rgb(242, 242, 242);
+}
+.footerBackground
+{
+	background : #FFD147;
+	background : rgba(255, 209, 71, 1);
+	position : absolute ;
+	left : 0px;
+	top : 1285px;
+	width : 1200px;
+	height : 115px;
+}
+.heading1
+{
+	font-family : Helvetica;
+	font-size : 36px;
+	line-height : 35px;
+	color : #F2F2F2;
+	color : rgb(242, 242, 242);
+	margin-left: 25px;
+	margin-top: 25px;
+}
+.bodyText
+{
+	font-family : Helvetica;
+	font-size : 25px;
+	line-height : 35px;
+	color : #F2F2F2;
+	color : rgb(242, 242, 242);
+	margin-left: 25px;
+	margin-right: 25px;
+}
+.secondaryBackground
+{
+	background : #CC0033;
+	position : absolute ;
+	left : 50px;
+	top : 1035px;
+	width : 1100px;
+	height : 250px;
+	border-radius: 25px;
+}
+.secondaryText {
+	font-family : Helvetica;
+	font-size : 30px;
+	line-height : 35px;
+	color : #F2F2F2;
+	color : rgb(242, 242, 242);
+	left: 25px;
+	right: 25px;
+	text-align: center;
+}
+button {
+	font-family: Helvetica;
+	font-size: 25px;
+	color: #F2F2F2;
+	background-color: #ffd147;
+	height: 50px;
+	width: 100px;
+	margin-left: 500px;
+	border-radius: 25px;
+	vertical-align: middle;
+	line-height: 50px;
+	text-align: center;
+}
+a {
+       font-family: Helvetica;
+       font-size: 25px;
+       color: #F2F2F2;
+}
