@@ -6,18 +6,18 @@ body {
 }
 
 nav {
-	width: 102%;
+	width: 100%;
 	height: 5%;
 	background-color: #ffd147;
-	margin-top: -10px;
-	margin-left: -10px;
-	padding: 2% 3% 1%;
 }
 
 .navimg {
 	width: 10%;
 	height: 8%;
 	display: inline-block;
+	margin-top: 1%;
+	margin-left: 1%;
+	margin-bottom: 1%
 }
 
 .navlist {
@@ -68,6 +68,7 @@ button {
 	line-height: 50px;
 	text-align: center;
 	margin: auto;
+	margin-bottom: 1%;
 }
 
 section {
