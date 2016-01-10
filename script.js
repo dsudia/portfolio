@@ -1,5 +1,5 @@
 $(document).ready(function () {
 	$('button').click(function() {
-		$('.secondaryBackground').css('background', '#0033CC');
+		$('section').css('background-color', '#0033CC');
 	})
 });
